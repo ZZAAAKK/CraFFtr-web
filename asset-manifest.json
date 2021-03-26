@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/CraFFtr-web/static/css/main.8a857af2.chunk.css",
-    "main.js": "/CraFFtr-web/static/js/main.bc00664e.chunk.js",
-    "main.js.map": "/CraFFtr-web/static/js/main.bc00664e.chunk.js.map",
-    "runtime-main.js": "/CraFFtr-web/static/js/runtime-main.0876c299.js",
-    "runtime-main.js.map": "/CraFFtr-web/static/js/runtime-main.0876c299.js.map",
-    "static/js/2.4be3ea45.chunk.js": "/CraFFtr-web/static/js/2.4be3ea45.chunk.js",
-    "static/js/2.4be3ea45.chunk.js.map": "/CraFFtr-web/static/js/2.4be3ea45.chunk.js.map",
-    "static/js/3.539183e2.chunk.js": "/CraFFtr-web/static/js/3.539183e2.chunk.js",
-    "static/js/3.539183e2.chunk.js.map": "/CraFFtr-web/static/js/3.539183e2.chunk.js.map",
+    "main.js": "/CraFFtr-web/static/js/main.a2087134.chunk.js",
+    "main.js.map": "/CraFFtr-web/static/js/main.a2087134.chunk.js.map",
+    "runtime-main.js": "/CraFFtr-web/static/js/runtime-main.91d78aad.js",
+    "runtime-main.js.map": "/CraFFtr-web/static/js/runtime-main.91d78aad.js.map",
+    "static/js/2.9fecb6c8.chunk.js": "/CraFFtr-web/static/js/2.9fecb6c8.chunk.js",
+    "static/js/2.9fecb6c8.chunk.js.map": "/CraFFtr-web/static/js/2.9fecb6c8.chunk.js.map",
+    "static/js/3.aa18d1f5.chunk.js": "/CraFFtr-web/static/js/3.aa18d1f5.chunk.js",
+    "static/js/3.aa18d1f5.chunk.js.map": "/CraFFtr-web/static/js/3.aa18d1f5.chunk.js.map",
     "index.html": "/CraFFtr-web/index.html",
     "static/css/main.8a857af2.chunk.css.map": "/CraFFtr-web/static/css/main.8a857af2.chunk.css.map",
-    "static/js/2.4be3ea45.chunk.js.LICENSE.txt": "/CraFFtr-web/static/js/2.4be3ea45.chunk.js.LICENSE.txt"
+    "static/js/2.9fecb6c8.chunk.js.LICENSE.txt": "/CraFFtr-web/static/js/2.9fecb6c8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0876c299.js",
-    "static/js/2.4be3ea45.chunk.js",
+    "static/js/runtime-main.91d78aad.js",
+    "static/js/2.9fecb6c8.chunk.js",
     "static/css/main.8a857af2.chunk.css",
-    "static/js/main.bc00664e.chunk.js"
+    "static/js/main.a2087134.chunk.js"
   ]
 }
