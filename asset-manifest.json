@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/CraFFtr-web/static/css/main.55146a12.chunk.css",
-    "main.js": "/CraFFtr-web/static/js/main.a64ad5d1.chunk.js",
-    "main.js.map": "/CraFFtr-web/static/js/main.a64ad5d1.chunk.js.map",
+    "main.css": "/CraFFtr-web/static/css/main.a0e0f961.chunk.css",
+    "main.js": "/CraFFtr-web/static/js/main.9a6ad47c.chunk.js",
+    "main.js.map": "/CraFFtr-web/static/js/main.9a6ad47c.chunk.js.map",
     "runtime-main.js": "/CraFFtr-web/static/js/runtime-main.91d78aad.js",
     "runtime-main.js.map": "/CraFFtr-web/static/js/runtime-main.91d78aad.js.map",
     "static/js/2.9fecb6c8.chunk.js": "/CraFFtr-web/static/js/2.9fecb6c8.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.aa18d1f5.chunk.js": "/CraFFtr-web/static/js/3.aa18d1f5.chunk.js",
     "static/js/3.aa18d1f5.chunk.js.map": "/CraFFtr-web/static/js/3.aa18d1f5.chunk.js.map",
     "index.html": "/CraFFtr-web/index.html",
-    "static/css/main.55146a12.chunk.css.map": "/CraFFtr-web/static/css/main.55146a12.chunk.css.map",
+    "static/css/main.a0e0f961.chunk.css.map": "/CraFFtr-web/static/css/main.a0e0f961.chunk.css.map",
     "static/js/2.9fecb6c8.chunk.js.LICENSE.txt": "/CraFFtr-web/static/js/2.9fecb6c8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.91d78aad.js",
     "static/js/2.9fecb6c8.chunk.js",
-    "static/css/main.55146a12.chunk.css",
-    "static/js/main.a64ad5d1.chunk.js"
+    "static/css/main.a0e0f961.chunk.css",
+    "static/js/main.9a6ad47c.chunk.js"
   ]
 }
