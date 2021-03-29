@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/CraFFtr-web/static/css/main.f4571e3f.chunk.css",
-    "main.js": "/CraFFtr-web/static/js/main.8023c741.chunk.js",
-    "main.js.map": "/CraFFtr-web/static/js/main.8023c741.chunk.js.map",
+    "main.js": "/CraFFtr-web/static/js/main.7f55a920.chunk.js",
+    "main.js.map": "/CraFFtr-web/static/js/main.7f55a920.chunk.js.map",
     "runtime-main.js": "/CraFFtr-web/static/js/runtime-main.91d78aad.js",
     "runtime-main.js.map": "/CraFFtr-web/static/js/runtime-main.91d78aad.js.map",
     "static/js/2.9fecb6c8.chunk.js": "/CraFFtr-web/static/js/2.9fecb6c8.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.91d78aad.js",
     "static/js/2.9fecb6c8.chunk.js",
     "static/css/main.f4571e3f.chunk.css",
-    "static/js/main.8023c741.chunk.js"
+    "static/js/main.7f55a920.chunk.js"
   ]
 }
